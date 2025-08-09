@@ -1,7 +1,26 @@
-# Google AI Edge Gallery ✨
+# ***AURA: AI Unified Response Agent ✨***
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/google-ai-edge/gallery)](https://github.com/google-ai-edge/gallery/releases)
+
+[![⚠️ WARNING: Experimental](https://img.shields.io/badge/WARNING-Experimental-red?style=for-the-badge)](#warning)
+
+
+---
+
+### 🛎️ Note
+<details>
+  <summary><strong>⚠️ Read this before using</strong></summary>
+
+- This repository is based and customized on Google AI Edge (MediaPipe). 
+- Please refer to `release` section for the stable or pre-release version apps.
+
+</details>
+
+---
+
+
+## Google AI Edge Gallery
 
 **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.**
 
@@ -59,3 +78,4 @@ Licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file 
 *   [Hugging Face LiteRT Community](https://huggingface.co/litert-community)
 *   [LLM Inference guide for Android](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference/android)
 *   [Google AI Edge Documentation](https://ai.google.dev/edge)
+
