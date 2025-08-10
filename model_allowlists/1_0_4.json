@@ -39,17 +39,17 @@
     },
     {
       "name": "Gemma3-1B-IT q4",
-      "modelId": "litert-community/Gemma3-1B-IT",
+      "modelId": "kjh2159/Gemma3-1B-IT",
       "modelFile": "Gemma3-1B-IT_multi-prefill-seq_q4_ekv2048.task",
-      "description": "A variant of [google/Gemma-3-1B-IT](https://huggingface.co/google/Gemma-3-1B-IT) with 4-bit quantization ready for deployment on Android using the [MediaPipe LLM Inference API](https://ai.google.dev/edge/mediapipe/solutions/genai/llm_inference)",
+      "description": "A variant of [google/Gemma-3-1B-IT](https://huggingface.co/google/Gemma-3-1B-IT) with 4-bit quantization.",
       "sizeInBytes": 554661246,
       "minDeviceMemoryInGb": 6,
-      "commitHash": "a1162a5674cd20452540a007dbe8d54e046d5f8b",
+      "commitHash": "2c4f11126d2635f31b06c7cc9ceb535c410cde97",
       "defaultConfig": {
         "topK": 64,
         "topP": 0.95,
         "temperature": 1.0,
-        "maxTokens": 1024,
+        "maxTokens": 2048,
         "accelerators": "gpu,cpu"
       },
       "taskTypes": ["llm_chat", "llm_prompt_lab"],

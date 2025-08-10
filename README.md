@@ -20,7 +20,7 @@
 ---
 
 
-## Google AI Edge Gallery
+## Google AI Edge Gallery (Powered)
 
 **Explore, Experience, and Evaluate the Future of On-Device Generative AI with Google AI Edge.**
 
